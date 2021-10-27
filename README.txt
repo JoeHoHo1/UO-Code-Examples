@@ -1,0 +1,1 @@
+Compilation of some code used while I was in UO 2018-2021, some might not work on upload.

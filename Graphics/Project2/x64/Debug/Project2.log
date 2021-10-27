@@ -1,0 +1,36 @@
+﻿  project2B.cxx
+F:\U of O\CIS 441\Project2\project2B.cxx(370,15): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\U of O\CIS 441\Project2\project2B.cxx(371,15): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\U of O\CIS 441\Project2\project2B.cxx(372,15): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\U of O\CIS 441\Project2\project2B.cxx(402,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\U of O\CIS 441\Project2\project2B.cxx(428,48): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+F:\U of O\CIS 441\Project2\project2B.cxx(436,47): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+F:\U of O\CIS 441\Project2\project2B.cxx(494,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+F:\U of O\CIS 441\Project2\project2B.cxx(496,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+F:\U of O\CIS 441\Project2\project2B.cxx(597,54): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\U of O\CIS 441\Project2\project2B.cxx(602,55): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\U of O\CIS 441\Project2\project2B.cxx(616,57): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\U of O\CIS 441\Project2\project2B.cxx(621,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\U of O\CIS 441\Project2\project2B.cxx(643,62): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\U of O\CIS 441\Project2\project2B.cxx(648,65): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\U of O\CIS 441\Project2\project2B.cxx(759,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\U of O\CIS 441\Project2\project2B.cxx(764,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\U of O\CIS 441\Project2\project2B.cxx(788,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\U of O\CIS 441\Project2\project2B.cxx(795,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\U of O\CIS 441\Project2\project2B.cxx(801,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\U of O\CIS 441\Project2\project2B.cxx(808,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\U of O\CIS 441\Project2\project2B.cxx(813,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\U of O\CIS 441\Project2\project2B.cxx(818,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> F:\U of O\CIS 441\Project2\x64\Debug\Project2.exe

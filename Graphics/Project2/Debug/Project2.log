@@ -1,0 +1,33 @@
+﻿  project2A.cxx
+F:\U of O\CIS 441\Project2\proj2_data.h(8617,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\U of O\CIS 441\Project2\proj2_data.h(26198,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\U of O\CIS 441\Project2\proj2_data.h(34815,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+project2A.obj : error LNK2019: unresolved external symbol __imp__glewInit@0 referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewBindBuffer referenced in function "unsigned int __cdecl SetupPhase2DataForRendering(void)" (?SetupPhase2DataForRendering@@YAIXZ)
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewBufferData referenced in function "unsigned int __cdecl SetupPhase2DataForRendering(void)" (?SetupPhase2DataForRendering@@YAIXZ)
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewGenBuffers referenced in function "unsigned int __cdecl SetupPhase2DataForRendering(void)" (?SetupPhase2DataForRendering@@YAIXZ)
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewAttachShader referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewCompileShader referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewCreateProgram referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewCreateShader referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewEnableVertexAttribArray referenced in function "unsigned int __cdecl SetupPhase2DataForRendering(void)" (?SetupPhase2DataForRendering@@YAIXZ)
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewGetShaderInfoLog referenced in function "void __cdecl _print_shader_info_log(unsigned int)" (?_print_shader_info_log@@YAXI@Z)
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewGetShaderiv referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewLinkProgram referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewShaderSource referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewUseProgram referenced in function _main
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewVertexAttribPointer referenced in function "unsigned int __cdecl SetupPhase2DataForRendering(void)" (?SetupPhase2DataForRendering@@YAIXZ)
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewBindVertexArray referenced in function "unsigned int __cdecl SetupPhase2DataForRendering(void)" (?SetupPhase2DataForRendering@@YAIXZ)
+project2A.obj : error LNK2019: unresolved external symbol __imp____glewGenVertexArrays referenced in function "unsigned int __cdecl SetupPhase2DataForRendering(void)" (?SetupPhase2DataForRendering@@YAIXZ)
+project2A.obj : error LNK2019: unresolved external symbol __imp__glewExperimental referenced in function _main
+F:\U of O\CIS 441\Project2\Libraries\lib\glew32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+F:\U of O\CIS 441\Project2\Libraries\lib\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+F:\U of O\CIS 441\Project2\Debug\Project2.exe : fatal error LNK1120: 26 unresolved externals

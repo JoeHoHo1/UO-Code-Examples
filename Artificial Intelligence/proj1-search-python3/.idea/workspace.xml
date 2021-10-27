@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32c955fc-9029-41a9-b179-e263ce105b46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iBuqBYvgyxYFHJp0oqGcA5u8Q3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reinforcement/reinforcement/analysis.py" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32c955fc-9029-41a9-b179-e263ce105b46" name="Default Changelist" comment="" />
+      <created>1601393494877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601393494877</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="487" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602842803673">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="487" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1602842803673" />
+    <state x="505" y="454" key="FileChooserDialogImpl" timestamp="1604889197572">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="505" y="454" key="FileChooserDialogImpl/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1604889197572" />
+    <state x="223" y="688" key="SettingsEditor" timestamp="1602307718078">
+      <screen x="0" y="0" width="1440" height="2520" />
+    </state>
+    <state x="223" y="688" key="SettingsEditor/0.0.1440.2520/1440.1486.1920.1040@0.0.1440.2520" timestamp="1602307718078" />
+    <state x="972" y="0" width="1272" height="1085" key="dock-window-1" timestamp="1604829926881">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="972" y="0" width="1272" height="1085" key="dock-window-1/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1604829926881" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../reinforcement/reinforcement/autograder.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
